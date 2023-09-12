@@ -5,7 +5,7 @@
     "test": "renovate-config-validator"
   },
   "dependencies": {
-    "renovate": "^19.171.0"
+    "renovate": "^36.93.1"
   },
   "private": true
 }
